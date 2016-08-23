@@ -1,2 +1,3 @@
 # chocolatey-packages
-some packages for https://chocolatey.org
+simple [golang package](https://chocolatey.org/packages/golang)
+Issues and PRs welcome.
