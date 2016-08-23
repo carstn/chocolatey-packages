@@ -9,7 +9,7 @@
     <owners>Shirayev Andrey, Carsten Ganske</owners>
     <!-- ============================== -->
     <!-- == SOFTWARE SPECIFIC SECTION == -->
-    <title>Go programming language 1.6.3</title>
+    <title>Go programming language</title>
     <authors>Robert Griesemer, Rob Pike, Ken Thompson</authors>
     <projectUrl>https://golang.org</projectUrl>
     <iconUrl>https://cdn.rawgit.com/carstn/chocolatey-packages/master/golang/gopher.png</iconUrl>
