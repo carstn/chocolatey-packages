@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>golang</id>
-    <version>1.7</version>
+    <version>1.7.1</version>
     <packageSourceUrl>https://github.com/carstn/chocolatey-packages</packageSourceUrl>
     <owners>Shirayev Andrey, Carsten Ganske</owners>
     <!-- ============================== -->
