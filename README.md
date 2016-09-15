@@ -1,3 +1,4 @@
-A simple [golang package](https://chocolatey.org/packages/golang) for the Chocolatey packager. Currently go 1.6.3 is under review; go 1.7 will follow.
+A simple [Chocolatey](https://chocolatey.org) package to install [Go](https://golang.org).
+package url: https://chocolatey.org/packages/golang
 
 Issues and PRs quite welcome!
