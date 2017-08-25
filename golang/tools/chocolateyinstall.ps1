@@ -1,10 +1,10 @@
 ﻿$ErrorActionPreference = 'Stop';
 
 $packageName = 'golang'
-$url = 'https://storage.googleapis.com/golang/go1.8.3.windows-386.zip'
-$checksum = '9e2bfcb8110a3c56f23b91f859963269bc29fd114190fecfd0a539395272a1c7'
-$url64 = 'https://storage.googleapis.com/golang/go1.8.3.windows-amd64.zip'
-$checksum64 = 'de026caef4c5b4a74f359737dcb2d14c67ca45c45093755d3b0d2e0ee3aafd96'
+$url = 'https://storage.googleapis.com/golang/go1.9.windows-386.zip'
+$checksum = 'ecfe6f5be56acedc56cd9ff735f239a12a7c94f40b0ea9753bbfd17396f5e4b9'
+$url64 = 'https://storage.googleapis.com/golang/go1.9.windows-amd64.zip'
+$checksum64 = '874b144b994643cff1d3f5875369d65c01c216bb23b8edddf608facc43966c8b'
 
 Get-ToolsLocation
 $tools = $env:ChocolateyToolsLocation
